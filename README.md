@@ -1,11 +1,13 @@
 <div align="center">
-  <br/>
-  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashim</h1>
-  <h3>Software Developer | Django • React • ASP.NET Web API</h3>
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090d16,100:141b29&height=200&section=header&text=Hi%20👋,%20I'm%20Hashim&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20|%20Django%20•%20React%20•%20ASP.NET%20Web%20API&descSize=19&descColor=3B82F6&descAlignY=65&animation=fadeIn" width="100%" />
+  
   <br/>
   
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=50&lines=Building+scalable+web+applications;Designing+robust+REST+and+Web+APIs;Creating+highly+interactive+UIs" alt="Typing SVG" />
+  </a>
+  
+  <br/>
   <h3>🔗 Connect with me</h3>
   <a href="https://mohashim.netlify.app"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="About Me"></a>
   <a href="mailto:mohammedhashim530@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
