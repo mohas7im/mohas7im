@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=250&section=header&text=Mohammed%20Hashim&fontSize=60&fontColor=3B82F6&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=25&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mohammed%20Hashim&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=25&descColor=ffffff&descAlignY=55&animation=fadeIn" />
   
   <br/>
   
@@ -61,6 +61,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohas7im&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohas7im&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
+
 ---
 
 ### 🏆 Trophies
@@ -81,5 +85,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
