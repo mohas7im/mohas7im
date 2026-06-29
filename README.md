@@ -1,10 +1,10 @@
 <div align="center">
-  <br>
-  <h1>Hi 👋, I'm Hashim</h1>
+  <br/>
+  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hashim</h1>
   <h3>Software Developer | Django • React • ASP.NET Web API</h3>
-  <br>
-  
-  <br>
+  <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
+  <br/>
   
   <h3>🔗 Connect with me</h3>
   <a href="https://mohashim.netlify.app"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="About Me"></a>
