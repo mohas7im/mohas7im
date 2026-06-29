@@ -53,7 +53,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohas7im&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohas7im&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
