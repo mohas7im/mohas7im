@@ -8,9 +8,6 @@
   
   <h3>🔗 Connect with me</h3>
   <a href="https://mohashim.netlify.app"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="About Me"></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://wa.me/YOUR_WHATSAPP"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohammedhashim530@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   
   <br><br>
