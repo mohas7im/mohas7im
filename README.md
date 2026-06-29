@@ -1,14 +1,8 @@
 <div align="center">
-  <!-- You can replace this GIF with any image of a sword or dark aesthetic you prefer! -->
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Dark Aesthetic Banner" width="100%" />
-  
-  <br><br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+Mohammed+Hashim's+Github" alt="Typing SVG" />
-  </a>
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
+  <br>
+  <h1>Hi 👋, I'm Hashim</h1>
+  <h3>Software Developer | Django • React • ASP.NET Web API</h3>
+  <br>
   
   <br>
   
