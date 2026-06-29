@@ -1,11 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mohammed%20Hashim&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=25&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+  <!-- You can replace this GIF with any image of a sword or dark aesthetic you prefer! -->
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Dark Aesthetic Banner" width="100%" />
   
-  <br/>
+  <br><br>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;React+%7C+TypeScript+%7C+shadcn;Python+%7C+Django;C%23+%7C+ASP.NET+Web+API;Passionate+about+clean+code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+Mohammed+Hashim's+Github" alt="Typing SVG" />
   </a>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" />
+  
+  <br>
+  
+  <h3>🔗 Connect with me</h3>
+  <a href="https://mohashim.netlify.app"><img src="https://img.shields.io/badge/ABOUT%20ME-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="About Me"></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://wa.me/YOUR_WHATSAPP"><img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohammedhashim530@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  
+  <br><br>
 </div>
 
 ---
@@ -63,16 +77,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohas7im&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
-
----
-
-### 🤝 Connect with me
-
-<div align="center">
-  <a href="https://mohashim.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
-  <a href="mailto:mohammedhashim530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 <div align="center">
