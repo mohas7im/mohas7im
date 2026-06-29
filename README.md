@@ -79,6 +79,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohas7im&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
-</div>
