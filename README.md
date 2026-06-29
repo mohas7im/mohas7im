@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Mohas7im!&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=250&section=header&text=Mohammed%20Hashim&fontSize=60&fontColor=3B82F6&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=25&descColor=ffffff" />
+  
+  <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+shadcn;Python+%7C+Django;C%23+%7C+ASP.NET+Web+API;Building+scalable+web+apps!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;React+%7C+TypeScript+%7C+shadcn;Python+%7C+Django;C%23+%7C+ASP.NET+Web+API;Passionate+about+clean+code!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +16,7 @@
 - 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, TypeScript, Python, C#, and ASP.NET**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **mohammedhashim530@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!**
 
 ---
@@ -73,9 +75,9 @@
 ### 🤝 Connect with me
 
 <div align="center">
+  <a href="https://mohashim.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="mailto:mohammedhashim530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
 </div>
 
 <div align="center">
